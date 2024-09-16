@@ -1,0 +1,3 @@
+[submodule "Shop"]
+	path = Shop
+	url = git@github.com:Masih-Roughani/Shop.git
